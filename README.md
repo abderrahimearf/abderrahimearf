@@ -1,6 +1,6 @@
-# <p align="center">🚀 Abderrahim ARFAOUI</p>
+# <p align="center">Abderrahim ARFAOUI</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Data+Engineer+🛠️;Élève+Ingénieur+@+EMI+🎓;GenAI+%26+RAG+Architect+🧠;BI+%26+Data+Governance+Expert+📊" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Data+Engineer+;Élève+Ingénieur+@+EMI+🎓;GenAI+%26+RAG+Architect+🧠;BI+%26+Data+Governance" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,6 +9,3 @@
 </p>
 
 ---
-
-## ⚡ En bref
-Élève Ingénieur en 3ème année à l'**EMI**, je fusionne la rigueur du **Data Engineering** avec la puissance de la **Data Science / GenAI**. Mon focus : transformer des données brutes en architectures scalables et en agents IA à fort impact métier.

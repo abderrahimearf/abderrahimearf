@@ -14,7 +14,7 @@
 
 ## À propos
 
-Je suis un élève ingénieur spécialisé dans la **Data Engineering**, la **Business Intelligence** et la **Data Science**.  
+Je suis un élève ingénieur spécialisé dans la **Data Engineering** et la **Data Science**.  
 J’aime concevoir des pipelines robustes, transformer des données brutes en actifs exploitables, et développer des solutions analytiques et IA à impact métier.
 
 Mon objectif est de construire des architectures data fiables, scalables et orientées décision.
@@ -23,7 +23,7 @@ Mon objectif est de construire des architectures data fiables, scalables et orie
 
 ## Expériences professionnelles
 
-### Data Scientist Intern — D&A Technologies, Casablanca  
+### Data Scientist Intern —  
 **Juin 2025 – Sept. 2025**
 
 - Conception d’une architecture **RAG** pour analyser automatiquement un corpus de plus de **200 documents** (RFI / RFQ)
@@ -35,7 +35,7 @@ Mon objectif est de construire des architectures data fiables, scalables et orie
 
 ---
 
-### Data Analyst Intern — Ministère de l’Agriculture, Rabat  
+### Data Analyst Intern — 
 **Juin 2024 – Août 2024**
 
 - Consolidation de données multi-sources (**Excel / SQL Server**)

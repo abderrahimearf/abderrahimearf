@@ -1,7 +1,6 @@
-# <p align="center">Abderrahim ARFAOUI</p>
+<p align="center"># Abderrahim ARFAOUI</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Data+Engineer+;Élève+Ingénieur+@+EMI+🎓;GenAI+%26+Data+Science+
-    🧠;BI+%26+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Data+Engineer+🛠️;Élève+Ingénieur+@+EMI+🎓;GenAI+%26+Data+Science+🧠;BI+%26+Data+Analytics+📊" alt="Typing SVG" />
 </p>
 
 <p align="center">

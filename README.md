@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:7F77DD&height=130&section=header&text=Abderrahim%20ARFAOUI&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:7F77DD&height=130&section=header&text=Abderrahim%20ARFAOUI&fontSize=36&fontColor=0d1117&fontAlignY=65&animation=fadeIn" />
 </p>
 
 <p align="center">

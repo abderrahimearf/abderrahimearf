@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  Passionate about building intelligent data solutions, transforming raw data into actionable insights, and creating impactful AI-driven applications.
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/abderrahim-arfaoui-25534a2b7">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
